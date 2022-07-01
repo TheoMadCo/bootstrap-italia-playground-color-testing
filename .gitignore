@@ -1,8 +1,8 @@
-# Dependency directories
-node_modules/
+# # Dependency directories
+# node_modules/
 
-# Compiled CSS
-css/compiled/
+# # Compiled CSS
+# css/compiled/
 
 # Compiled dependencies
 deps/
