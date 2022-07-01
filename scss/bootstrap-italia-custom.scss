@@ -1,9 +1,10 @@
 // Per l'override del colore $primary della palette in formato HSB:
 
-// Per ottenere il colore #FF3333 (https://rgb.to/ff3333)
-$primary-h: 0;
-$primary-s: 80;
-$primary-b: 100;
+// Colore in HEX desiderato: #17574f
+// Colore in HSB desiderato : hsb(173, 74, 34)
+$primary-h: 173;
+$primary-s: 74;
+$primary-b: 34;
 // Nota: per convertire il codice esadecimale di un colore formato HSB
 // è possibile utilizzare ad esempio il sito https://rgb.to/.
 

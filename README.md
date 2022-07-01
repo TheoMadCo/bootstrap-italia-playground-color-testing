@@ -1,3 +1,16 @@
+# Screenshots 
+
+## Colore desiderato
+Colore in HEX desiderato: ![#17574f](https://via.placeholder.com/15/17574f/17574f.png) `#17574f` \
+Colore in HSB desiderato : hsb(173, 74, 34)
+
+## Risultati
+Di seguito i risultati ottenuti utilizzando il tool. In ultimo un controllo dei contrasti effettuato tramite l'estensione WAVE.
+<img src="https://i.vgy.me/GRYDoP.png" alt="primo screenshot">
+<img src="https://i.vgy.me/XkqCNb.png" alt="secondo screenshot">
+<img src="https://i.vgy.me/upIOnz.png" alt="terzo screenshot con errori di contrasto in evidenza">
+
+
 # Bootstrap Italia Playground
 
 Questo progetto è il modo più semplice per iniziare ad usare [Bootstrap Italia](https://italia.github.io/bootstrap-italia/).
